@@ -1,0 +1,5 @@
+com/example/TodoList/repository/TaskRepository.class
+com/example/TodoList/TodoListApplication.class
+com/example/TodoList/model/Task.class
+com/example/TodoList/service/TaskService.class
+com/example/TodoList/controller/TaskController.class
